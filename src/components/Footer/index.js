@@ -23,7 +23,7 @@ const Footer = () => {
          <FooterWrap>
             <SocialMedia>
                <SocialMediaWrap>
-                  <SocialLogo to='/'>Pizza</SocialLogo>
+                  <SocialLogo to='/'>Pizza App &copy; PixelWeb</SocialLogo>
                   <SocialIcons>
                      <SocialIconLink href='/' target='_blank' aria-label='Facebookk' rel='noopener noreferrer'>
                         <FaFacebook/>
